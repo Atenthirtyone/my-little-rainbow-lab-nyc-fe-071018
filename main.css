@@ -10,6 +10,7 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
+<<<<<<< HEAD
 #red
 {
   background-color:#f00;
@@ -38,3 +39,30 @@ div {
 {
   background-color:#d300c9;
 }
+=======
+#Red
+{
+}
+#Orange
+{
+}
+#Yellow
+{
+  
+}
+#Green
+{
+}
+#Blue
+{
+}
+#Indigo
+{
+}
+#Violet
+{
+}
+Red:
+`#f00`; Orange: `#ffa500`; Yellow: `#ff0`; Green: `#00bc3f`; Blue: `#06f`;
+Indigo: `#8a2be2`; Violet: `#d300c9`
+>>>>>>> 8626670d7e627200c3a4cb4b3d1113293f171619
